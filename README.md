@@ -1,6 +1,6 @@
 ### Hi there 👋
- 🔭 I’m currently working on sokoban 2.0
- 🌱 I’m currently learning more python
+🔭 I’m currently working on sokoban 2.0
+🌱 I’m currently learning more python
  👯 I’m looking to collaborate on the sokoban 2.0 project
  🤔 I’m looking for help with my fello friend
  📫 How to reach me: business@proprogram.net
